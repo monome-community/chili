@@ -16,7 +16,7 @@ all controls are on the monome, easy
 
 http://vimeo.com/64641926
 
-(music by [[https://soundcloud.com/r_o/Humph|ro]])
+(music by [https://soundcloud.com/r_o](https://soundcloud.com/r_o))
 
 ## features
 
